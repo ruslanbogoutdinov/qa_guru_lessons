@@ -8,5 +8,6 @@ public class ThirdBranchClass {
             y += i;
         }
         System.out.println("Total amount is: "+y);
+        System.out.println("FIFTH");
     }
 }
