@@ -7,6 +7,6 @@ public class ThirdBranchClass {
         for (int i = 0; i < 10; i++) {
             y += i;
         }
-        System.out.println("Total amount is: ---"+y+"---");
+        System.out.println("Total amount is: |---"+y+"---|");
     }
 }
