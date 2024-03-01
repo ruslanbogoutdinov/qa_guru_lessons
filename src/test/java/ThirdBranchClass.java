@@ -8,6 +8,6 @@ public class ThirdBranchClass {
             y += i;
         }
         System.out.println("Total amount is: "+y+" :)");
-        System.out.println("The end :)");
+        System.out.println("Git pull 3rd branch");
     }
 }
