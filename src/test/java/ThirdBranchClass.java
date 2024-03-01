@@ -9,6 +9,5 @@ public class ThirdBranchClass {
         }
         System.out.println("Total amount is: "+y+" :)");
         System.out.println("The end :)");
-        System.out.println("THIIIIIIRD333333");
     }
 }
