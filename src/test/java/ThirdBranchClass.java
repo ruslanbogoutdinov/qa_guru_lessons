@@ -7,7 +7,7 @@ public class ThirdBranchClass {
         for (int i = 0; i < 10; i++) {
             y += i;
         }
-        System.out.println("Total amount is: 5555"+y+"5555");
+        System.out.println("Total amount is: "+y);
         System.out.println("FIFTH");
     }
 }
