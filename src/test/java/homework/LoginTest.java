@@ -11,7 +11,7 @@ public class LoginTest {
     @Test
     void successfulLoginTest() {
         // To not close the browser after test
-        //Configuration.holdBrowserOpen = true;
+        Configuration.holdBrowserOpen = true;
         // Use firefox browser (chrome is by default)
         //Configuration.browser = "firefox";
         // Set browser size
